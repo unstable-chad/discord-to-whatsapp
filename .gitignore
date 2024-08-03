@@ -1,0 +1,9 @@
+node_modules/
+.env
+
+# Ignore list
+*.log
+*.lock
+*.DS_Store
+.wwebjs_auth/
+.wwebjs_cache/
